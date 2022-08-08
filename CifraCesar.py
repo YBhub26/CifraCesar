@@ -1,4 +1,4 @@
-# Objetivo: fazer uma cifra de césar
+# Objetivo: fazer uma cifra de César
 
 # passo 1 - entrada de dados (palavra para criptografar/decriptar | opção de criptografar/decriptar) | opção de escolha da chave
 alfabeto = 'abcdefghijklmnopqrstuvwxyz'
